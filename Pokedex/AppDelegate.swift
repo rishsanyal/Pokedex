@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Pokedex
 //
-//  Created by Rishab Sanyal on 3/5/17.
+//  Created by Rishab Sanyal on 2/6/17.
 //  Copyright © 2017 Rishab Sanyal. All rights reserved.
 //
 
